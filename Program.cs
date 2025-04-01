@@ -176,4 +176,6 @@ public class Queue
     public string? to_param { get; set; }
 
     public string? result { get; set; }
+
+    public string? message { get; set; }
 }
